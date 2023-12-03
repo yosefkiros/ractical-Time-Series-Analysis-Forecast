@@ -1,1 +1,1 @@
-# ractical-Time-Series-Analysis-Forecast
+# Practical-Time-Series-Analysis-Forecast
